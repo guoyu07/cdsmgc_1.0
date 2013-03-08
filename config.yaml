@@ -1,0 +1,4 @@
+name: smgc
+version: 4
+handle:
+- compress:  if ( out_header["Content-type"]=="text/html" ) compress

@@ -1,0 +1,237 @@
+.body {
+	WIDTH: 100%; CLEAR: both
+}
+.container {
+	WIDTH: 100%; FLOAT: left
+}
+.container:after {
+	DISPLAY: block; HEIGHT: 0px; VISIBILITY: hidden; CLEAR: both; CONTENT: "."
+}
+.body-950 {
+	MARGIN: 0px auto; WIDTH: 950px
+}
+.prefix {
+	PADDING-LEFT: 10px
+}
+.suffix {
+	PADDING-RIGHT: 10px
+}
+.column-01 {
+	POSITION: relative; WIDTH: 100%; DISPLAY: inline; FLOAT: left; OVERFLOW: hidden
+}
+.column-02 {
+	POSITION: relative; WIDTH: 100%; DISPLAY: inline; FLOAT: left; OVERFLOW: hidden
+}
+.column-03 {
+	POSITION: relative; WIDTH: 100%; DISPLAY: inline; FLOAT: left; OVERFLOW: hidden
+}
+.column-04 {
+	POSITION: relative; WIDTH: 100%; DISPLAY: inline; FLOAT: left; OVERFLOW: hidden
+}
+.column-05 {
+	POSITION: relative; WIDTH: 100%; DISPLAY: inline; FLOAT: left; OVERFLOW: hidden
+}
+.column-06 {
+	POSITION: relative; WIDTH: 100%; DISPLAY: inline; FLOAT: left; OVERFLOW: hidden
+}
+.column-07 {
+	POSITION: relative; WIDTH: 100%; DISPLAY: inline; FLOAT: left; OVERFLOW: hidden
+}
+.column-08 {
+	POSITION: relative; WIDTH: 100%; DISPLAY: inline; FLOAT: left; OVERFLOW: hidden
+}
+.column-09 {
+	POSITION: relative; WIDTH: 100%; DISPLAY: inline; FLOAT: left; OVERFLOW: hidden
+}
+.column-10 {
+	POSITION: relative; WIDTH: 100%; DISPLAY: inline; FLOAT: left; OVERFLOW: hidden
+}
+.column-11 {
+	POSITION: relative; WIDTH: 100%; DISPLAY: inline; FLOAT: left; OVERFLOW: hidden
+}
+.column-12 {
+	POSITION: relative; WIDTH: 100%; DISPLAY: inline; FLOAT: left; OVERFLOW: hidden
+}
+.column-13 {
+	POSITION: relative; WIDTH: 100%; DISPLAY: inline; FLOAT: left; OVERFLOW: hidden
+}
+.column-14 {
+	POSITION: relative; WIDTH: 100%; DISPLAY: inline; FLOAT: left; OVERFLOW: hidden
+}
+.column-15 {
+	POSITION: relative; WIDTH: 100%; DISPLAY: inline; FLOAT: left; OVERFLOW: hidden
+}
+.column-16 {
+	POSITION: relative; WIDTH: 100%; DISPLAY: inline; FLOAT: left; OVERFLOW: hidden
+}
+.column-17 {
+	POSITION: relative; WIDTH: 100%; DISPLAY: inline; FLOAT: left; OVERFLOW: hidden
+}
+.column-18 {
+	POSITION: relative; WIDTH: 100%; DISPLAY: inline; FLOAT: left; OVERFLOW: hidden
+}
+.column-19 {
+	POSITION: relative; WIDTH: 100%; DISPLAY: inline; FLOAT: left; OVERFLOW: hidden
+}
+.column-20 {
+	POSITION: relative; WIDTH: 100%; DISPLAY: inline; FLOAT: left; OVERFLOW: hidden
+}
+.column-21 {
+	POSITION: relative; WIDTH: 100%; DISPLAY: inline; FLOAT: left; OVERFLOW: hidden
+}
+.column-22 {
+	POSITION: relative; WIDTH: 100%; DISPLAY: inline; FLOAT: left; OVERFLOW: hidden
+}
+.column-23 {
+	POSITION: relative; WIDTH: 100%; DISPLAY: inline; FLOAT: left; OVERFLOW: hidden
+}
+.column-24 {
+	POSITION: relative; WIDTH: 100%; DISPLAY: inline; FLOAT: left; OVERFLOW: hidden
+}
+.body-950 .column-01 {
+	WIDTH: 30px
+}
+.body-950 .column-02 {
+	WIDTH: 70px
+}
+.body-950 .column-03 {
+	WIDTH: 110px
+}
+.body-950 .column-04 {
+	WIDTH: 150px
+}
+.body-950 .column-05 {
+	WIDTH: 190px
+}
+.body-950 .column-06 {
+	WIDTH: 230px
+}
+.body-950 .column-07 {
+	WIDTH: 270px
+}
+.body-950 .column-08 {
+	WIDTH: 310px
+}
+.body-950 .column-09 {
+	WIDTH: 350px
+}
+.body-950 .column-10 {
+	WIDTH: 390px
+}
+.body-950 .column-11 {
+	WIDTH: 430px
+}
+.body-950 .column-12 {
+	WIDTH: 470px
+}
+.body-950 .column-13 {
+	WIDTH: 510px
+}
+.body-950 .column-14 {
+	WIDTH: 550px
+}
+.body-950 .column-15 {
+	WIDTH: 590px
+}
+.body-950 .column-16 {
+	WIDTH: 630px
+}
+.body-950 .column-17 {
+	WIDTH: 670px
+}
+.body-950 .column-18 {
+	WIDTH: 710px
+}
+.body-950 .column-19 {
+	WIDTH: 750px
+}
+.body-950 .column-20 {
+	WIDTH: 790px
+}
+.body-950 .column-21 {
+	WIDTH: 830px
+}
+.body-950 .column-22 {
+	WIDTH: 870px
+}
+.body-950 .column-23 {
+	WIDTH: 910px
+}
+.body-950 .column-24 {
+	WIDTH: 950px
+}
+.body-950 .column {
+	PADDING-LEFT: 0px
+}
+.body-950 .start-01 {
+	PADDING-LEFT: 0px
+}
+.body-950 .start-02 {
+	PADDING-LEFT: 40px
+}
+.body-950 .start-03 {
+	PADDING-LEFT: 80px
+}
+.body-950 .start-04 {
+	PADDING-LEFT: 120px
+}
+.body-950 .start-05 {
+	PADDING-LEFT: 160px
+}
+.body-950 .start-06 {
+	PADDING-LEFT: 200px
+}
+.body-950 .start-07 {
+	PADDING-LEFT: 240px
+}
+.body-950 .start-08 {
+	PADDING-LEFT: 280px
+}
+.body-950 .start-09 {
+	PADDING-LEFT: 320px
+}
+.body-950 .start-10 {
+	PADDING-LEFT: 360px
+}
+.body-950 .start-11 {
+	PADDING-LEFT: 400px
+}
+.body-950 .start-12 {
+	PADDING-LEFT: 440px
+}
+.body-950 .start-13 {
+	PADDING-LEFT: 480px
+}
+.body-950 .start-14 {
+	PADDING-LEFT: 520px
+}
+.body-950 .start-15 {
+	PADDING-LEFT: 560px
+}
+.body-950 .start-16 {
+	PADDING-LEFT: 600px
+}
+.body-950 .start-17 {
+	PADDING-LEFT: 640px
+}
+.body-950 .start-18 {
+	PADDING-LEFT: 680px
+}
+.body-950 .start-19 {
+	PADDING-LEFT: 720px
+}
+.body-950 .start-20 {
+	PADDING-LEFT: 760px
+}
+.body-950 .start-21 {
+	PADDING-LEFT: 800px
+}
+.body-950 .start-22 {
+	PADDING-LEFT: 840px
+}
+.body-950 .start-23 {
+	PADDING-LEFT: 880px
+}
+.body-950 .start-24 {
+	PADDING-LEFT: 920px
+}

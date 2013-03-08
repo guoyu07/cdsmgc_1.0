@@ -1,0 +1,45 @@
+H2 > A:link {
+	TEXT-DECORATION: none
+}
+H2 > A:visited {
+	COLOR: black
+}
+TABLE {
+	BORDER-BOTTOM: 1px solid; TEXT-ALIGN: center; BORDER-LEFT: 1px solid; MARGIN-TOP: 20px; BORDER-COLLAPSE: collapse; BORDER-TOP: 1px solid; BORDER-RIGHT: 1px solid
+}
+CAPTION {
+	FONT-SIZE: 20px; FONT-WEIGHT: bold
+}
+TH {
+	BORDER-BOTTOM: 1px solid; BORDER-LEFT: 1px solid; PADDING-BOTTOM: 2px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; BORDER-TOP: 1px solid; BORDER-RIGHT: 1px solid; PADDING-TOP: 2px
+}
+TD {
+	BORDER-BOTTOM: 1px solid; BORDER-LEFT: 1px solid; PADDING-BOTTOM: 2px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; BORDER-TOP: 1px solid; BORDER-RIGHT: 1px solid; PADDING-TOP: 2px
+}
+A:link {
+	TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: blue; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #616657; TEXT-DECORATION: none
+}
+#menus {
+	MARGIN-TOP: 30px; WIDTH: auto; HEIGHT: 50px
+}
+#menus LI {
+	LIST-STYLE-TYPE: none; MARGIN: 0px; WIDTH: auto; FLOAT: left
+}
+UL {
+	PADDING-BOTTOM: 1px; PADDING-LEFT: 1px; PADDING-RIGHT: 1px; PADDING-TOP: 1px
+}
+LI {
+	LIST-STYLE-TYPE: none
+}
+.grade > LI {
+	FONT-SIZE: 18px; FONT-WEIGHT: bold
+}
+.class LI {
+	FONT-WEIGHT: normal
+}
